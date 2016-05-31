@@ -1,4 +1,5 @@
 <?php
+
 /*
  * Plugin Name:       Single Post Meta Manager
  * Plugin URI:        http://github.com/tommcfarlin/post-meta-manager
